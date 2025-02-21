@@ -1,4 +1,4 @@
-- **SE ASN2 GIT & GITHUB**
+**SE ASN2 GIT & GITHUB**
  
 - **Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?**
 
